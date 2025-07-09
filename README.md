@@ -41,12 +41,15 @@ plagrism_ai/
 ├── uploads/                # File tạm từ người dùng
 ├── .gitignore              # Bỏ qua thư mục nặng
 └── README.md               # Mô tả project
-
-# Bước 1: Cài môi trường
-pip install -r requirements.txt
-
-# Bước 2: Khởi chạy Flask
-python app.py
-
-# Truy cập tại: http://127.0.0.1:5000
 ```
+
+## ⚙️ Cách chạy
+# Bước 1: Cài môi trường
+```bash
+pip freeze > requirements.txt
+```
+# Bước 2: Khởi chạy Flask
+```bash
+python app.py
+```
+# Truy cập tại: http://127.0.0.1:5000
