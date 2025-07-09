@@ -1,0 +1,9 @@
+data/
+test/
+
+*.npy
+*.pdf
+*.txt
+__pycache__/
+*.pyc
+.vscode/
