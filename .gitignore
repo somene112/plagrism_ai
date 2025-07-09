@@ -1,5 +1,7 @@
 data/
 test/
+reports/
+uploads/
 
 *.npy
 *.pdf
