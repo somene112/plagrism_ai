@@ -44,12 +44,12 @@ plagrism_ai/
 ```
 
 ## ⚙️ Cách chạy
-# Bước 1: Cài môi trường
+### Bước 1: Cài môi trường
 ```bash
 pip freeze > requirements.txt
 ```
-# Bước 2: Khởi chạy Flask
+### Bước 2: Khởi chạy Flask
 ```bash
 python app.py
 ```
-# Truy cập tại: http://127.0.0.1:5000
+Truy cập tại: http://127.0.0.1:5000
